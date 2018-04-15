@@ -1,4 +1,5 @@
 {
-  "test_tictactoe.py": true, 
-  "test_tictactoe.py::test_draw_board": true
+  "test_tictactoe.py::test_board": true, 
+  "test_tictactoe.py::test_draw_board": true, 
+  "test_tictactoe.py::test_play": true
 }
